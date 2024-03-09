@@ -15,7 +15,7 @@
 - TypeORM
 - TypeScript
 # Contato 📞
-- Se você tiver alguma dúvida, sugestão ou quiser colaborar, sinta-se à vontade para entrar em contato comigo através do meu perfil do LinkedIn:
+- Se você tiver alguma dúvida, sugestão ou quiser colaborar, sinta-se à vontade para entrar em contato comigo através do meu perfil do LinkedIn: https://www.linkedin.com/in/gustavo-parente-aguiar-353538243
 
 # Licença
 - Este projeto está licenciado sob a Licença MIT.
